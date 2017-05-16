@@ -1,0 +1,1 @@
+This is my Wendys Restaurant Locator website. It used API from Google to obtain location information from restaurants with that title. As such the Google API’s listed use Javascript. Using the Google Places API required a key from Google that I obtained in their API control panel.
